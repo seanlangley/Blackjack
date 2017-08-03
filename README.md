@@ -9,6 +9,6 @@ Run the executable with
 $ ./blackjack
 ```
 
-#BUGS
+# BUGS
 Betting is not yet fully implemented. 
 Also, there appears to be a problem when Aces are delt twice in a row, the program seems to enter an infinite loop. More investigation is required.
